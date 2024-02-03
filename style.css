@@ -1,0 +1,231 @@
+.back {
+  background-image: url("top.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: fixed;
+}
+.overlay {
+  position: absolute;
+  top: 30%;
+  left: 47%;
+  transform: translate(-45%, -45%);
+  text-align: center;
+}
+.overlay h1 {
+  color: black;
+  font-size: 4rem;
+}
+.overlay h3 {
+  color: black;
+  font-size: 1rem;
+  margin-bottom: 3rem;
+}
+.overlay .btn a {
+  text-decoration: none;
+  color: white;
+  border: 1px solid green;
+  border-radius: 25px;
+  font-weight: 100;
+  padding: 0.9rem 1.6rem;
+  margin-top: 2rem;
+  background-color: green;
+}
+.overlay p {
+  color: black;
+  font-size: 0.5rem;
+  margin-top: 3rem;
+}
+.middle {
+  background-color: white;
+  padding: 8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-position: fixed;
+}
+.middle .one {
+  width: 150%;
+}
+.middle .two .sc1 {
+  width: 100%;
+}
+.middle .two .btn1 a {
+  text-decoration: solid;
+  color: white;
+  border: 1px solid green;
+  border-radius: 25px;
+  font-weight: 100;
+  padding: 0.9rem 1.6rem;
+  margin-top: 2rem;
+  background-color: green;
+  width: 50%;
+}
+.middle1 {
+  background-color: white;
+  width: 100%;
+  left: 20%;
+}
+.middle1 .one1 {
+  position: absolute;
+  float: left;
+  width: 25%;
+  left: 10%;
+  top: 200%;
+}
+.middle1 .one1 h {
+  font-size: 2rem;
+}
+.middle1 .two1 {
+  float: right;
+}
+.middle2 .one2 {
+  position: absolute;
+  left: 5%;
+  top: 235%;
+}
+.middle2 .btn2 a {
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  border: 1px solid green;
+  border-radius: 25px;
+  font-weight: 100;
+  padding: 0.9rem 1.6rem;
+  margin-top: 2rem;
+  background-color: green;
+}
+.middle2 .two2 {
+  position: absolute;
+  width: 30%;
+  left: 68%;
+  top: 250%;
+}
+.middle2 .two2 .sc2 h1 {
+  font-size: 2.2rem;
+}
+.middle3 .one3 {
+  position: absolute;
+  width: 25%;
+  left: 7%;
+  top: 310%;
+}
+.middle3 .one3 .sc2 h1 {
+  text-align: center;
+}
+.middle3 .one3 .sc2 h {
+  width: 40%;
+}
+.middle3 .one4 {
+  position: absolute;
+  width: 30%;
+  left: 37%;
+  top: 310%;
+}
+.middle3 .one4 .sc3 h1 {
+  text-align: center;
+  position: absolute;
+  width: 70%;
+  left: 10%;
+  top: 115%;
+}
+.middle3 .one4 .sc3 h {
+  text-align: center;
+  position: absolute;
+  width: 70%;
+  left: 10%;
+  top: 175%;
+}
+.middle3 .one5 {
+  position: absolute;
+  width: 25%;
+  left: 68%;
+  top: 310%;
+}
+.middle3 .one5 .sc4 h1 {
+  text-align: center;
+}
+.middle3 .one5 .sc4 h {
+  text-align: center;
+}
+.btn3 a {
+  color: green;
+  position: absolute;
+  width: 30%;
+  left: 43%;
+  top: 380%;
+}
+.bot {
+  background-image: url("bottom.jpg");
+  position: absolute;
+  left: 0%;
+  top: 400%;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+.bot .final h1 {
+  text-align: center;
+  position: absolute;
+  width: 80%;
+  left: 10%;
+  top: 5%;
+  font-size: 2.7rem;
+}
+.bot .final h2 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 7%;
+  font-size: 5rem;
+}
+.bot .final h3 {
+  position: absolute;
+  width: 30px;
+  left: 80%;
+  top: 30%;
+  font-size: 1rem;
+}
+.bot .final h4 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 20%;
+  font-size: 5rem;
+}
+.bot .final h5 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 45%;
+  font-size: 1rem;
+}
+.bot .final h6 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 20%;
+  font-size: 6rem;
+}
+.bot .final h7 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 68%;
+  font-size: 1rem;
+}
+.bot .final h8 {
+  position: absolute;
+  width: 10%;
+  left: 80%;
+  top: 71%;
+  font-size: 1rem;
+}
+.bot .btn4 a {
+  color: green;
+  position: absolute;
+  width: 30%;
+  left: 43%;
+  top: 85%;
+}
